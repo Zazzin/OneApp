@@ -41,7 +41,7 @@ class _CalendarPageState extends State<CalendarPage> {
                 Align(
                 alignment: Alignment.topLeft,
                 child: Text(
-                  'Hello, USER!', // Il tuo testo qui
+                  'Hello!', // Il tuo testo qui
                   style: TextStyle(fontSize: 42, fontWeight: FontWeight.bold), // Stile del testo
                 ),
               ),
